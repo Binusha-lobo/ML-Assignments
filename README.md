@@ -1,2 +1,2 @@
-# ML-Assignments
+# Python-Assignments
 ineuron ML assignments
